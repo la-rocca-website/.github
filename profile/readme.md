@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/la-rocca-website/open-depot/main/mockups/screen.jpg">
+<img src="https://raw.githubusercontent.com/la-rocca-website/open-depot/main/mockups/screenshot.png">
 
 ---
 
